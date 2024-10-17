@@ -33,14 +33,22 @@ These features collectively make the Udemy Data Explorer a comprehensive tool fo
 
 ## Technologies Used
 Programming Language: Python
+
 Libraries:
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 
 ##  Features
+
 Data cleaning and preprocessing.
+
 Visualizations of course ratings, prices, and categories.
+
 Predictive analytics to forecast trends in online education.
