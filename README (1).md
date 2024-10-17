@@ -1,4 +1,4 @@
-Udemy Data Explorer
+## **Udemy Data Explorer**
 
 The **Udemy Data Explorer** project aims to analyze and visualize data from Udemy courses. By leveraging Python libraries, this project provides insights into course offerings, pricing, ratings, and other key metrics to help identify trends and patterns in online learning.
 
